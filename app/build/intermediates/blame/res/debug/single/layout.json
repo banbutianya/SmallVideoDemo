@@ -1,0 +1,370 @@
+[
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_custom_big.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_linkmic.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\layout\\activity_linkmic.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ugc_video_list.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\layout\\activity_ugc_video_list.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_beauty_area.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\layout\\fragment_beauty_area.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_video_record.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\layout\\activity_video_record.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\edit_pannel.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\layout\\edit_pannel.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_video_editer.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\layout\\activity_video_editer.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_qrcode.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\layout\\activity_qrcode.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\filter_layout.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\layout\\filter_layout.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_video_logview.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\layout\\activity_video_logview.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\merge_camera_preview_view_finder.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\exploded-aar\\barcodescanner-core-1.8.4\\res\\layout\\merge_camera_preview_view_finder.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\compose_record_btn.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\layout\\compose_record_btn.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\titlebar.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\layout\\titlebar.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_video_joiner.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\layout\\activity_video_joiner.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_chose_music.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\layout\\layout_chose_music.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_editer_bgm.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\layout\\item_editer_bgm.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_word.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\layout\\item_word.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_publish.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\layout\\activity_publish.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\swipe_menu_item.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\layout\\swipe_menu_item.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_record_speed.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\layout\\item_record_speed.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_edit_view.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\layout\\item_edit_view.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_default_operation_view.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\layout\\layout_default_operation_view.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_play.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\layout\\activity_play.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\green_layout.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\layout\\green_layout.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\swipe_item.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\layout\\swipe_item.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_video_preview.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\layout\\activity_video_preview.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_word_input.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\layout\\fragment_word_input.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_bgm_record_view.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\layout\\item_bgm_record_view.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_ugc_convert.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\layout\\dialog_ugc_convert.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\music_pannel.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\layout\\music_pannel.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\audio_ctrl_music_list.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\layout\\audio_ctrl_music_list.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_ugc_tip.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\layout\\dialog_ugc_tip.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_video_publisher.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\layout\\activity_video_publisher.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\loading.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\layout\\loading.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_vod.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\layout\\activity_vod.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_video_joiner_preview.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\layout\\activity_video_joiner_preview.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_bgm_edit_view.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\layout\\item_bgm_edit_view.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\titlebar_videocall.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\layout\\titlebar_videocall.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\beauty_pannel.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\layout\\beauty_pannel.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_word_editor.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\layout\\activity_word_editor.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_ugcedit_publish.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\layout\\dialog_ugcedit_publish.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_videocall.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\layout\\activity_videocall.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\module_entry_item.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\layout\\module_entry_item.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\camera_grid_item_video.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\layout\\camera_grid_item_video.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\comment.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\layout\\comment.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_ugc_video.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\layout\\item_ugc_video.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\audio_ctrl_music_item.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\layout\\audio_ctrl_music_item.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_word_edit_view.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\layout\\item_word_edit_view.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_joiner_progress.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\layout\\layout_joiner_progress.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_title.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\layout\\view_title.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\audio_ctrl.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\layout\\audio_ctrl.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_video_settings.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\layout\\activity_video_settings.xml"
+    }
+]

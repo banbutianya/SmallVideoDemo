@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\Android Demo\SmallVideoDemo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="E:\Android Demo\SmallVideoDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.3.1_42bcbeea345113a8cf0e6916bb6edcfea54b0b4f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android Demo\SmallVideoDemo\app\build\intermediates\exploded-aar\volley-1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="E:\Android Demo\SmallVideoDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\intermediates-exploded-aar-volley-1.0.0_3407fd36021c5d66e55273b01e52c62afbeec78f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SDK\SDK\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="E:\Android Demo\SmallVideoDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_f1104b4549a4b19869dd1a230877635c1c259943\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android Demo\SmallVideoDemo\app\libs\sha1utils.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e777f426888bb1df2504e936d2825ff43c31425b">
+        <dex dex="E:\Android Demo\SmallVideoDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\sha1utils_edae77e2fa41b1e260d1cdf400100187902f945f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android Demo\SmallVideoDemo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="E:\Android Demo\SmallVideoDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.3.1_e7ef1db68c6c33fcd0d0752f38926ed67f7b09f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android Demo\SmallVideoDemo\app\libs\wechat-sdk-android-with-mta-1.1.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="379056fcb09a02bd0db722be359695ad88beb04d">
+        <dex dex="E:\Android Demo\SmallVideoDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\wechat-sdk-android-with-mta-1.1.6_b75615b471369600026320543daf12bca83e7a3c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\10953\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="E:\Android Demo\SmallVideoDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_10c248c7f6bf0fbc9270042087c8f1b6c6b3de72\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android Demo\SmallVideoDemo\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="E:\Android Demo\SmallVideoDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.3.1_2f8a05a84551c32eb6190eec2f00e867f2c52f11\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android Demo\SmallVideoDemo\app\libs\SocialSDK_WeChat_Simplify.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dbad0e3e7ac8062dd9f7ce3e60ab0ddccc44553f">
+        <dex dex="E:\Android Demo\SmallVideoDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_WeChat_Simplify_8e860f31227b65281cc59e8eedfd083248a62630\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android Demo\SmallVideoDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Android Demo\SmallVideoDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.3.1_d9e65fba36483363bfc0bf3d2c397fb9a5e49368\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android Demo\SmallVideoDemo\app\build\intermediates\exploded-aar\zxing-1.8.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="68ef1daf85c69fca8fddf7bbb947fc51cc9f8ca3">
+        <dex dex="E:\Android Demo\SmallVideoDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\intermediates-exploded-aar-zxing-1.8.4_9e24dc983d1526ab92a0fe29dd61914e02863536\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android Demo\SmallVideoDemo\app\build\intermediates\exploded-aar\LiteAVSDK_UGC\jars\libs\LiteAVSDK_UGC.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="33b8eba34162625cb7336107bb18e2f7a4fdb97c">
+        <dex dex="E:\Android Demo\SmallVideoDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\LiteAVSDK_UGC_b0a9caba4b25c65c9404368530c9d8c41fe9b0b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android Demo\SmallVideoDemo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="E:\Android Demo\SmallVideoDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.3.1_7baf95b4f7882b3e15d5f6dc2a33ed7240146c18\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android Demo\SmallVideoDemo\app\libs\okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="E:\Android Demo\SmallVideoDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\okio-1.6.0_8408769eb82153af070d651c6a3fc8f2a2abd612\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android Demo\SmallVideoDemo\app\build\intermediates\exploded-aar\LiteAVSDK_UGC\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="089c03b8ff5241456bd98086c001a00e864769ce">
+        <dex dex="E:\Android Demo\SmallVideoDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\intermediates-exploded-aar-LiteAVSDK_UGC_c9759b712ca45f9baa024591c4150f547c8bebda\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android Demo\SmallVideoDemo\app\libs\gson-2.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="E:\Android Demo\SmallVideoDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\gson-2.3.1_180b6508d4ab2a508ca80f84070a5ca7247cd12e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android Demo\SmallVideoDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1a50d8d5bc46121633aedeee58442e87470b7b05">
+        <dex dex="E:\Android Demo\SmallVideoDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5e3ce6fd7fafc4d3c77ce699c9731df03d20d197\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android Demo\SmallVideoDemo\app\libs\umeng_social_shareview.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="073317d66b5c48377b80a0d927bbbf2269a40478">
+        <dex dex="E:\Android Demo\SmallVideoDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\umeng_social_shareview_622dbd96f8561cfdc95d0325af06fac39b6259d8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android Demo\SmallVideoDemo\app\libs\zxing-core-3.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="E:\Android Demo\SmallVideoDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\zxing-core-3.2.1_79e7786f39cdb611b02687b2073cd6c545076f40\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android Demo\SmallVideoDemo\app\libs\SocialSDK_QQ_Simplify.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6613d9480532b6b4d91aafd192350e0b9fcee502">
+        <dex dex="E:\Android Demo\SmallVideoDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_QQ_Simplify_10534c5310dfb186e1d174240b201c24fd2be697\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android Demo\SmallVideoDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="E:\Android Demo\SmallVideoDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.3.1_fe36bb0e83fde8701e2eb96f4ff1c6651a5b30f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android Demo\SmallVideoDemo\app\libs\umeng_social_net.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ae5e7e8f78a0b150398087327eda81f872cdcae2">
+        <dex dex="E:\Android Demo\SmallVideoDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\umeng_social_net_8aa5855ce9cf3ac145403ba17cdde554bf0029f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android Demo\SmallVideoDemo\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="E:\Android Demo\SmallVideoDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.3.1_2cca1ebd2d75a07e354e29427173965b4f7bc78d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android Demo\SmallVideoDemo\app\libs\umeng_social_api.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="35352ed1ecfb082e85996474c3048332d1374276">
+        <dex dex="E:\Android Demo\SmallVideoDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\umeng_social_api_8370b29a2ffa668610351bc8c7f53246416b3470\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android Demo\SmallVideoDemo\app\libs\bugly_crash_release__2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f714da14a952d12529974cad9f0c7ae3cf1b9a42">
+        <dex dex="E:\Android Demo\SmallVideoDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\bugly_crash_release__2.1_909faf602b43964c5fb4b2a78a0a68ad807c04f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android Demo\SmallVideoDemo\app\libs\SocialSDK_Sina_Simplify.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2733f75e9b808bfbf54db957b375f21d9eeb4c4d">
+        <dex dex="E:\Android Demo\SmallVideoDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_Sina_Simplify_fc0e20867e428574b0b3e28583825c8817ecf456\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android Demo\SmallVideoDemo\app\libs\open_sdk_r5781.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cbac7d081542657d885efd7a529a9267d22ec080">
+        <dex dex="E:\Android Demo\SmallVideoDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\open_sdk_r5781_6c825ecd663a36b440c4dd5f4d4421f141f0dbbe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android Demo\SmallVideoDemo\app\libs\cos-sdk-android.1.4.3.11.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="feb2ff832664a8f547b1e975d7f63d112c247a1c">
+        <dex dex="E:\Android Demo\SmallVideoDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\cos-sdk-android.1.4.3.11_e2ea62a7ac8d8ab076fd27cdea0bad58179f85b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android Demo\SmallVideoDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="be9757fd87cb0f9d68528967dc7b98d23efbf76b">
+        <dex dex="E:\Android Demo\SmallVideoDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b01722809141eb693e8d896e54592033b4840bc2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android Demo\SmallVideoDemo\app\build\intermediates\exploded-aar\barcodescanner-core-1.8.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="af8d42f1f020e936b8cd9f5cb6c75993194895a3">
+        <dex dex="E:\Android Demo\SmallVideoDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\intermediates-exploded-aar-barcodescanner-core-1.8.4_536cc0c49ebfe141070a3045ccc640b243e20cb8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android Demo\SmallVideoDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="E:\Android Demo\SmallVideoDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.3.1_5416005d9e53694f71016ddaddad2da8beeb2e68\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android Demo\SmallVideoDemo\app\libs\okhttp-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="E:\Android Demo\SmallVideoDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\okhttp-3.2.0_7ce120af405e26a6aca4ffc46e55c6200fb74994\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android Demo\SmallVideoDemo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="E:\Android Demo\SmallVideoDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.3.1_f3a78983166c5b6b8b90f25222177e7200f8a813\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android Demo\SmallVideoDemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="E:\Android Demo\SmallVideoDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.3.1_4e2cc87c00e04cc54007a27dd49655aef98b8ffb\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,7 @@
+#Thu Nov 09 11:35:33 CST 2017
+base.0=E\:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_5e3ce6fd7fafc4d3c77ce699c9731df03d20d197
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b01722809141eb693e8d896e54592033b4840bc2\\classes.dex
+base.1=E\:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b01722809141eb693e8d896e54592033b4840bc2
+file.0=E\:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_5e3ce6fd7fafc4d3c77ce699c9731df03d20d197\\classes.dex

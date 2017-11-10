@@ -1,0 +1,418 @@
+[
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\play_seekbar_progress.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable\\play_seekbar_progress.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\module_item_click.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable\\module_item_click.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_word_bg.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable\\selector_word_bg.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_radio_bg.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable\\selector_radio_bg.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\url_scanner_button_cancel.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable\\url_scanner_button_cancel.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vp_share_qq.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable\\vp_share_qq.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\drawable_face_beauty.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable\\drawable_face_beauty.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\record_progress.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable\\record_progress.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_beautiful_girl.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable\\selector_beautiful_girl.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_word_color_yellow.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable\\shape_word_color_yellow.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rect_bg_green.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable\\rect_bg_green.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\record_speed_selector.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable\\record_speed_selector.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_play_bg.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable\\ic_play_bg.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_record_back.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable\\selector_record_back.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_video_material_download.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable\\ic_video_material_download.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_record_music.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable\\selector_record_music.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\camera_video_grid_bg.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable\\camera_video_grid_bg.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\drawable_face_filter.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable\\drawable_face_filter.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_aspect169.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable\\selector_aspect169.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_share.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable\\icon_share.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_record_pause.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable\\icon_record_pause.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_speed_selector.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable\\ic_speed_selector.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_record_start.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable\\icon_record_start.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\drawable_face_green.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable\\drawable_face_green.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loading_animation.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable\\loading_animation.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_torch_close.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable\\selector_torch_close.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\drawable_publisher_video.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable\\drawable_publisher_video.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\resolution_radio.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable\\resolution_radio.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\drawable_publisher_live.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable\\drawable_publisher_live.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\seekbar_progress_drawable.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable\\seekbar_progress_drawable.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_aspect11.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable\\selector_aspect11.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\swipe_menu_divider_recycler.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable\\swipe_menu_divider_recycler.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_word_color_blue.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable\\shape_word_color_blue.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vp_share_qzone.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable\\vp_share_qzone.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_record_camera.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable\\icon_record_camera.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rect_bg_gray.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable\\rect_bg_gray.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vp_share_wx.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable\\vp_share_wx.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_aspect43.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable\\selector_aspect43.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vp_share_circle.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable\\vp_share_circle.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_seek_bar_cursor.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable\\icon_seek_bar_cursor.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\drawable_face_move.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable\\drawable_face_move.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\url_scanner_button_confirm.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable\\url_scanner_button_confirm.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_delete_last_part.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable\\selector_delete_last_part.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_record_delete.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable\\icon_record_delete.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_switch_camera.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable\\selector_switch_camera.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_button_3.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable\\round_button_3.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vp_share_wb.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable\\vp_share_wb.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_word_bg_normal.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable\\shape_word_bg_normal.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_word_color_green.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable\\shape_word_color_green.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\record_round_bg.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable\\record_round_bg.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_preview_to_edit.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable\\selector_preview_to_edit.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_button.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable\\round_button.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\layer_list_progress_bar.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable\\layer_list_progress_bar.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_word_color_red.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable\\shape_word_color_red.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_torch_open.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable\\selector_torch_open.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\music_round_btn.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable\\music_round_btn.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_word_bg_press.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable\\shape_word_bg_press.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_round_button.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable\\shape_round_button.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text_accent_gray_color.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable\\text_accent_gray_color.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_button_2.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable\\round_button_2.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_record_lamp.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable\\icon_record_lamp.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\url_scanner_background.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable\\url_scanner_background.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_record_download.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable\\icon_record_download.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_record_confirm.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable\\selector_record_confirm.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_word_color_white.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable\\shape_word_color_white.xml"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ratingbar_small_material.xml"
+    }
+]

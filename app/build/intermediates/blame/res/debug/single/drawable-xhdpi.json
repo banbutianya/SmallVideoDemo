@@ -1,0 +1,434 @@
+[
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\main_tab_33.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\main_tab_33.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\close.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\close.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ugc_aspect43.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\ugc_aspect43.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\off_press.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\off_press.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\camera_change2.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\camera_change2.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\block_normal.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\block_normal.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ugc_switch_camera_hover.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\ugc_switch_camera_hover.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\cache_time.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\cache_time.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\off.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\off.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ugc_torch_open_hover.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\ugc_torch_open_hover.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\loading_image0.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\loading_image0.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\manual.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\manual.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ugc_record_music.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\ugc_record_music.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\music_item_selected.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\music_item_selected.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\play_start.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\play_start.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_return.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\btn_return.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ugc_aspect43hover.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\ugc_aspect43hover.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\button_gray_pressed.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\button_gray_pressed.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_back_press.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\btn_back_press.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ugc_aspect11.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\ugc_aspect11.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\auto_bitrate.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\auto_bitrate.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\cache.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\cache.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\main_tab_2.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\main_tab_2.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\video.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\video.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ugc_delete_last_part_hover.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\ugc_delete_last_part_hover.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tcloud_logo.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\tcloud_logo.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\subpusher.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\subpusher.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_back_gray.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\btn_back_gray.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\push.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\push.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\log_show.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\log_show.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\volumn_primary.9.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\volumn_primary.9.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\block_pressed.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\block_pressed.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\loading_image1.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\loading_image1.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ugc_record_beautiful_girl_hover.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\ugc_record_beautiful_girl_hover.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\automatic.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\automatic.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\adjust_mode.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\adjust_mode.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\black_bkg.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\black_bkg.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\flash_off.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\flash_off.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\close_press.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\close_press.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\quick.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\quick.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\live.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\live.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\input_box.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\input_box.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\landscape.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\landscape.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ugc_aspect11hover.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\ugc_aspect11hover.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ugc_aspect169.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\ugc_aspect169.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ugc_delete_last_part.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\ugc_delete_last_part.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\loading_image2.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\loading_image2.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\composite.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\composite.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\watermark.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\watermark.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\loading_image5.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\loading_image5.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ugc_record_beautiful_girl.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\ugc_record_beautiful_girl.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\conf_icon.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\conf_icon.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ugc_torch_close.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\ugc_torch_close.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\main_tab_1.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\main_tab_1.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\mainpusher.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\mainpusher.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\play_pause.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\play_pause.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\quick2.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\quick2.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ugc_confirm_disable.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\ugc_confirm_disable.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ugc_switch_camera.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\ugc_switch_camera.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\flash_on.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\flash_on.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\loading_image7.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\loading_image7.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\record_video.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\record_video.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\play_seekbar_icon.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\play_seekbar_icon.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\fix_bitrate.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\fix_bitrate.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ugc_start_record.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\ugc_start_record.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\play.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\play.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\loading_image6.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\loading_image6.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\add.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\add.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ugc_torch_disable.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\ugc_torch_disable.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\main_tab_11.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\main_tab_11.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\mute.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\mute.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\button_green.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\button_green.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ugc_delete_last_part_disable.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\ugc_delete_last_part_disable.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\face_beauty.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\face_beauty.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\camera_change.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\camera_change.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\mic.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\mic.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\scan.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\scan.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ugc_pause_record.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\ugc_pause_record.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\loading_image4.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\loading_image4.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\video_press.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\video_press.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\mute_press.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\mute_press.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qr_code.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\qr_code.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\log_hidden.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\log_hidden.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\main_tab_3.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\main_tab_3.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ugc_record_ring_light.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\ugc_record_ring_light.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\arrow.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\arrow.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\main_tab_44.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\main_tab_44.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ugc_record_back_disable.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\ugc_record_back_disable.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\cut.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\cut.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\button_gray.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\button_gray.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ugc_torch_open.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\ugc_torch_open.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\main_tab_22.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\main_tab_22.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\volumn_bg.9.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\volumn_bg.9.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\volumn_front.9.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\volumn_front.9.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ugc_aspect169hover.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\ugc_aspect169hover.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ugc_record_ring_gray.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\ugc_record_ring_gray.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\circle.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\circle.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\loading_image3.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\loading_image3.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ugc_confirm_hover.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\ugc_confirm_hover.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ugc_torch_close_hover.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\ugc_torch_close_hover.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\portrait.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\portrait.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ugc_confirm.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\ugc_confirm.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ugc_record_music_hover.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\ugc_record_music_hover.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\button_green_pressed.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\button_green_pressed.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ugc_record_back.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\ugc_record_back.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\white_bkg.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\white_bkg.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\fill_mode.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\fill_mode.png"
+    },
+    {
+        "merged": "E:\\Android Demo\\SmallVideoDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\videoplay.png",
+        "source": "E:\\Android Demo\\SmallVideoDemo\\app\\src\\main\\res\\drawable-xhdpi\\videoplay.png"
+    }
+]
